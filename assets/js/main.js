@@ -43,10 +43,15 @@ function openModal(obra) {
   modalContent.innerHTML = `
 
     <button class="close-modal">&times;</button>
-    <img src="${obra.imagen}" alt="${obra.titulo}">
-    <h2 class="modal-title">${obra.titulo}</h2>
-    <p class="modal-meta">${obra.autor} · ${obra.anio}</p>
-    <p class="modal-description">${obra.descripcion}</p>
+
+    <div class="cont-img">
+      <img src="${obra.imagen}" alt="${obra.titulo}">
+    </div>
+    
+
+    <h2 class="modal-title funel">${obra.titulo}</h2>
+    <p class="modal-meta nunito">${obra.autor} · ${obra.anio}</p>
+    <p class="modal-description nunito">${obra.descripcion}</p>
 
   `;
 

@@ -15,9 +15,16 @@ h1{
   font-weight: 100;
 }
 
+.nunito{
+  font-family: "Nunito Sans", sans-serif;
+}
+.funel{
+  font-family: "Funnel Display", sans-serif;
+}
+
 .hotspot {
-  width: 20px;
-  height: 20px;
+  width: 1em;
+  height: 1em;
   border-radius: 10px;
   border: none;
   background-color: blue;
@@ -43,7 +50,7 @@ h1{
   justify-content: center;
   align-items: center;
 
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(0, 0, 0, 0);
   border: none;
   
 }
@@ -53,14 +60,17 @@ h1{
 }
 
 .modal-content {
-  background: #fff;
+  background: rgba(255, 255, 255, 0.6);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(14px);
 
-  max-width: 40vw;
+  max-width: 50vw;
+  max-height: 80vh;
   padding: 24px;
   border-radius: 12px;
   
   position: relative;
-  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
 
   display: flex;
   flex-direction: column;
@@ -78,14 +88,28 @@ h1{
   cursor: pointer;
 }
 
+.modal-title{
+  font-size: 2em;
+  font-weight: 500;
+}
+
 .modal-meta {
   font-size: 0.9rem;
   color: #666;
 }
 
+.cont-img{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
 .modal-content img{
-  height: 40vh;
-  object-fit: cover;
+  height: 30vh;
+  width: auto;
+  object-fit: contain;
+  width: fit-content;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
 }
 
 
