@@ -54,27 +54,38 @@ h1{
 
 .modal-content {
   background: #fff;
-  max-width: 500px;
-  width: 90%;
+
+  max-width: 50vw;
   padding: 24px;
   border-radius: 12px;
+  
   position: relative;
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+
 }
 
 .close-modal {
   position: absolute;
-  top: 12px;
-  right: 12px;
+  top: 5%;
+  right: 5%;
   background: none;
   border: none;
-  font-size: 24px;
+  font-size: 32px;
   cursor: pointer;
 }
 
 .modal-meta {
   font-size: 0.9rem;
   color: #666;
+}
+
+.modal-content img{
+  height: 40vh;
+  object-fit: cover;
 }
 
 
