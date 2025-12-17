@@ -6,8 +6,8 @@
     "anio": "1937",
     "descripcion": "La obra tiene un sentido claro y contundente: denunciar el horror de la guerra y el sufrimiento humano. Utiliza un lenguaje fragmentado y simbólico, donde cada figura y gesto contribuyen a una idea común que se comunica con fuerza.\n\nEl sentido no es literal, pero existe y se sostiene a lo largo de toda la composición. A diferencia del Dadaísmo, que buscaba anular el significado y generar desconcierto puro, Guernica demuestra que el arte puede impactar y conmover precisamente porque comunica y transmite un mensaje que trasciende la imagen.",
     "imagen": "/assets/imgs/obra1.png",
-    "position": "0m 1.6m 0.3m",
-    "normal": "0 0 1"
+    "position": "7m 5m 6.8m",
+    "normal": "1 1 1"
   },
   {
     "id": "obra2",
@@ -16,8 +16,8 @@
     "anio": "1930",
     "descripcion": "La obra puede interpretarse como una convivencia de opuestos dentro de una misma unidad. Las figuras, divididas cromáticamente, sugieren que la contradicción y las opiniones opuestas pueden coexistir sin generar caos.\n\nA diferencia del Dadaísmo, aquí no se busca la contradicción absurda, sino tensiones reguladas y comprensibles, donde la dualidad se presenta como un orden interno y no como desorden.",
     "imagen": "/assets/imgs/obra2.png",
-    "position": "1.2m 1.5m -0.8m",
-    "normal": "0 0 1"
+    "position": "4m 5m 6.8m",
+    "normal": "1 1 1"
   },
   {
     "id": "obra3",
@@ -26,8 +26,8 @@
     "anio": "1920",
     "descripcion": "La obra construye sentido a partir de la asociación deliberada de formas, colores y estructuras que remiten a paisajes, arquitectura y memoria. Cada elemento se conecta con otro, generando un tejido visual donde nada es aislado ni azaroso.\n\nA diferencia del Dadaísmo, que rompe intencionalmente las asociaciones para producir caos, aquí la relación entre los elementos es intencional y el significado surge del vínculo entre las partes.",
     "imagen": "/assets/imgs/obra3.png",
-    "position": "-1.4m 1.4m 0.6m",
-    "normal": "0 0 1"
+    "position": "1m 5m 6.8m",
+    "normal": "1 1 1"
   },
   {
     "id": "obra4",
@@ -36,8 +36,8 @@
     "anio": "1974",
     "descripcion": "A través de un cálculo riguroso, el artista identificó y ejecutó las 122 variaciones posibles, presentándolas como estructuras blancas idénticas junto a sus esquemas gráficos, eliminando cualquier rastro de subjetividad emocional en favor de la pura geometría.\n\nLeWitt demuestra que someterse a reglas externas y a un orden matemático es la condición de posibilidad para que la obra exista con claridad, oponiéndose radicalmente a la desorganización y el azar que defendía el Dadaísmo.",
     "imagen": "/assets/imgs/obra4.png",
-    "position": "0.8m 1.3m -1.6m",
-    "normal": "0 0 1"
+    "position": "-3m 5.5m 4.5m",
+    "normal": "1 1 1"
   },
   {
     "id": "obra5",
@@ -46,8 +46,8 @@
     "anio": "1929",
     "descripcion": "La Villa Savoye es el ícono absoluto de la arquitectura moderna, diseñada como una máquina para habitar. La casa se eleva sobre pilotes y se estructura rigurosamente bajo los Cinco Puntos de la Nueva Arquitectura, rechazando la decoración vacía en favor de la pureza funcional y geométrica.\n\nLa obra demuestra que la libertad artística nace de elegir un sistema constructivo claro, contrarrestando la visión dadaísta de que la estructura es una trampa racional.",
     "imagen": "/assets/imgs/obra5.png",
-    "position": "-0.9m 1.5m -2.1m",
-    "normal": "0 0 1"
+    "position": "-3m 5.5m 1.3m",
+    "normal": "1 1 1"
   },
   {
     "id": "obra6",
@@ -56,8 +56,8 @@
     "anio": "1953",
     "descripcion": "La litografía presenta un espacio donde coexisten simultáneamente tres fuentes de gravedad distintas. Figuras caminan por escaleras y atraviesan puertas que, según la perspectiva, funcionan como suelo, pared o techo.\n\nEscher emplea elementos lógicos y puntos de referencia estables para permitir que la mente conecte y ordene la imagen, demostrando que el razonamiento hace que la obra sea legible y accesible, no caótica.",
     "imagen": "/assets/imgs/obra6.png",
-    "position": "2.0m 1.6m 0.2m",
-    "normal": "0 0 1"
+    "position": "0.5m 5m -1.5m",
+    "normal": "1 1 1"
   },
   {
     "id": "obra7",
@@ -66,8 +66,8 @@
     "anio": "Siglo XXV a.C.",
     "descripcion": "La Gran Pirámide de Guiza es la más antigua de las siete maravillas del mundo antiguo y la única que todavía perdura. Su construcción combina materiales ultra duraderos, una ingeniería precisa y una visión simbólica profunda ligada a la trascendencia y la inmortalidad del faraón.\n\nEsta obra demuestra cómo la lógica constructiva y el simbolismo pueden generar una obra destinada a perdurar más allá de su función funeraria original.",
     "imagen": "/assets/imgs/obra7.png",
-    "position": "-2.1m 1.7m 0.4m",
-    "normal": "0 0 1"
+    "position": "4.5m 5m -1.5m",
+    "normal": "1 1 1"
   },
   {
     "id": "obra8",
@@ -76,7 +76,7 @@
     "anio": "1960",
     "descripcion": "Ícono de la resistencia humana, la figura alargada y frágil avanza con paso firme, representando la lucha y la presencia del individuo.\n\nLas obras de Giacometti exploran la fragilidad y la esencia humana a través de la imperfección y el vacío, influenciadas por el existencialismo y la posguerra, creando figuras que representan el aislamiento y la tensión entre el ser y la nada.",
     "imagen": "/assets/imgs/obra8.png",
-    "position": "0.3m 1.4m 1.8m",
-    "normal": "0 0 1"
+    "position": "8.5m 5m -1.5m",
+    "normal": "1 1 1"
   }
 ]
