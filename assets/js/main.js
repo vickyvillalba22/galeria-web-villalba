@@ -47,7 +47,6 @@ function openModal(obra) {
     <div class="cont-img">
       <img src="${obra.imagen}" alt="${obra.titulo}">
     </div>
-    
 
     <h2 class="modal-title funel">${obra.titulo}</h2>
     <p class="modal-meta nunito">${obra.autor} · ${obra.anio}</p>
