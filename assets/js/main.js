@@ -42,7 +42,7 @@ function openModal(obra) {
 
   modalContent.innerHTML = `
 
-    <button class="close-modal">&times;</button>
+    <button class="close-modal funel">&times;</button>
 
     <div class="cont-img">
       <img src="${obra.imagen}" alt="${obra.titulo}">
